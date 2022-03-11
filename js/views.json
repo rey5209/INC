@@ -1,0 +1,52 @@
+{
+  "jsonData" : [
+    {
+    "banner" : "cfo-today.jpg",
+    "tittle" : "FEBRUARY 26,2022 | 5:30 - 6:00 pm ",
+    "subTittle" : "facebook",
+    "subTittleColor" : "#1c4ee3",
+    "subTittleType" : "icon",
+    "image" : "INC-Central-Temple-2.jpg",
+    "link" : "https://www.facebook.com/", 
+    "different_link_per_data" : true,
+    "different_img_per_data" : true,
+    "redirectPage": true,
+    "page" : "watch.html",
+    "redirect_text":"Sending view from facebook",
+    "viewData" : [
+      {"lokal":"Australia East",          "duration":"1:0",  "link":"https://www.facebook.com/events/327304979448923/", "image":"12.jpg",        "views":  0},
+      {"lokal":"Camanava",                "duration":"29:0",  "link":"https://www.facebook.com/events/327304979448923/", "image":"12.jpg",        "views":  0},
+      {"lokal":"Central",                 "duration":"29:0",  "link":"https://www.facebook.com/events/327304979448923/", "image":"12.jpg",        "views":  0},
+      {"lokal":"Southeast California",    "duration":"29:0",  "link":"https://www.facebook.com/events/327304979448923/", "image":"12.jpg",        "views":  0},
+      {"lokal":"Negros Del Norte",    "duration":"29:0",  "link":"https://www.facebook.com/events/327304979448923/", "image":"12.jpg",        "views":  0}
+       
+     
+      ] 
+    },
+    {
+    "banner" : "c.jpg",
+      "tittle" : "FEBRUARY 25,2022 | 10:30 - 6:00 pm ",
+      "subTittle" : "youtube",
+    "subTittleColor" : "red",
+    "subTittleType" : "icon",
+      "image" : "Untitled.jpg",
+      "link" : "https://www.youtube.com/", 
+      "different_link_per_data" : true,
+      "different_img_per_data" : true,
+      "redirectPage": true,
+      "page" : "watch2.html",
+      "redirect_text":"Sending view from youtube",
+      "viewData" : [
+        {"lokal":"Australia East",           "duration":"29:0",  "link":"https://www.youtube.com/watch?v=ouiOEMPm_-A", "image":"12.jpg",                  "views":  0},
+        {"lokal":"Camanava",                 "duration":"29:0",  "link":"https://www.youtube.com/watch?v=ouiOEMPm_-A", "image":"12.jpg",                  "views":  0},
+        {"lokal":"Central",                  "duration":"29:0",  "link":"https://www.youtube.com/watch?v=ouiOEMPm_-A", "image":"12.jpg",                  "views":  0},
+        {"lokal":"Southeast California",     "duration":"29:0",  "link":"https://www.youtube.com/watch?v=ouiOEMPm_-A", "image":"12.jpg",                  "views":  0},
+        {"lokal":"Negros Del Norte",    "duration":"29:0",  "link":"https://www.youtube.com/watch?v=ouiOEMPm_-A/", "image":"12.jpg",        "views":  0}
+        ] 
+      }
+      
+
+  ]
+}
+
+ 
