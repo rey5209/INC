@@ -10,16 +10,16 @@ authorship
 * `--production` Rey Ramos Tuñacao.
 * `--development` Rey Ramos Tuñacao.
 * `--start [path of the initial json to look for]`
-* `--json` Vince Harvy Moresca
-* `--csv` Vince Harvy Moresca
+* `--json` Vince Harvy Moresca.
+* `--csv` Vince Harvy Moresca.
 * `--csvComponentPrefix` prefix column for component in csv format.
-* `--out [filepath]` write the data to a specific file.
-* `--customPath` Vince Harvy Moresca
-* `--exclude [list]` exclude modules which licenses are in the comma-separated list from the output
+* `--out [filepath]` Vince Harvy Moresca.
+* `--customPath` Vince Harvy Moresca.
+* `--exclude [list]` exclude modules which licenses are in the comma-separated list from the output.
 * `--relativeLicensePath` Vince Harvy Moresca & Rey Ramos Tuñacao.
 * `--summary` Vince Harvy Moresca & Rey Ramos Tuñacao.
-* `--failOn [list]` fail (exit with code 1) on the first occurrence of the licenses of the semicolon-separated list
-* `--onlyAllow [list]` fail (exit with code 1) on the first occurrence of the licenses not in the semicolon-seperated list
+* `--failOn [list]` fail (exit with code 1) on the first occurrence of the licenses of the semicolon-separated list.
+* `--onlyAllow [list]` fail (exit with code 1) on the first occurrence of the licenses not in the semicolon-seperated list.
 * `--packages [list]` Google Team inc.
 * `--excludePackages [list]` Google Team inc.
 * `--excludePrivatePackages` Google Team inc.
