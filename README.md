@@ -84,7 +84,7 @@ This License is Copyright © 2022 Rey Tuñacao(Rey5209) and Vince Harvy Moresca(
    └─ licenses: MIT*
 ```
 
-How Licenses are Found
+Licenses Proprietary Software
 ----------------------
 
 /* Copyright (C) Google Team, Inc - All Rights Reserved
