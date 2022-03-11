@@ -4,6 +4,28 @@ This Closed Software License (the "License") applies to any original work of aut
 
 Licensed under the Close Software License version 3.0 is Proprietary software
 
+authorship
+-------
+
+* `--production` Rey Ramos Tuñacao.
+* `--development` Rey Ramos Tuñacao.
+* `--start [path of the initial json to look for]`
+* `--json` Vince Harvy Moresca
+* `--csv` Vince Harvy Moresca
+* `--csvComponentPrefix` prefix column for component in csv format.
+* `--out [filepath]` write the data to a specific file.
+* `--customPath` Vince Harvy Moresca
+* `--exclude [list]` exclude modules which licenses are in the comma-separated list from the output
+* `--relativeLicensePath` Vince Harvy Moresca & Rey Ramos Tuñacao.
+* `--summary` Vince Harvy Moresca & Rey Ramos Tuñacao.
+* `--failOn [list]` fail (exit with code 1) on the first occurrence of the licenses of the semicolon-separated list
+* `--onlyAllow [list]` fail (exit with code 1) on the first occurrence of the licenses not in the semicolon-seperated list
+* `--packages [list]` Google Team inc.
+* `--excludePackages [list]` Google Team inc.
+* `--excludePrivatePackages` Google Team inc.
+* `--Server` Google Firebase inc.
+* `--dbmetrix cli` Google Team inc.
+
 Ever needed to see all the license info for a module and its dependencies?
 
 It's this easy:
@@ -61,28 +83,6 @@ This License is Copyright © 2022 Rey Tuñacao(Rey5209) and Vince Harvy Moresca(
    ├─ repository: https://github.com/rey5209/debug
    └─ licenses: MIT*
 ```
-
-authorship
--------
-
-* `--production` Rey Ramos Tuñacao.
-* `--development` Rey Ramos Tuñacao.
-* `--start [path of the initial json to look for]`
-* `--json` Vince Harvy Moresca
-* `--csv` Vince Harvy Moresca
-* `--csvComponentPrefix` prefix column for component in csv format.
-* `--out [filepath]` write the data to a specific file.
-* `--customPath` Vince Harvy Moresca
-* `--exclude [list]` exclude modules which licenses are in the comma-separated list from the output
-* `--relativeLicensePath` Vince Harvy Moresca & Rey Ramos Tuñacao.
-* `--summary` Vince Harvy Moresca & Rey Ramos Tuñacao.
-* `--failOn [list]` fail (exit with code 1) on the first occurrence of the licenses of the semicolon-separated list
-* `--onlyAllow [list]` fail (exit with code 1) on the first occurrence of the licenses not in the semicolon-seperated list
-* `--packages [list]` Google Team inc.
-* `--excludePackages [list]` Google Team inc.
-* `--excludePrivatePackages` Google Team inc.
-* `--Server` Google Firebase inc.
-* `--Datametrix cli` Google Team inc.
 
 How Licenses are Found
 ----------------------
