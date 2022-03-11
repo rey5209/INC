@@ -9,22 +9,22 @@ authorship
 
 * `--production` Rey Ramos Tuñacao.
 * `--development` Rey Ramos Tuñacao.
-* `--start [path of the initial json to look for]`
+* `--start [path of the initial json to look for]` Vince Harvy Moresca.
 * `--json` Vince Harvy Moresca.
 * `--csv` Vince Harvy Moresca.
-* `--csvComponentPrefix` prefix column for component in csv format.
-* `--out [filepath]` Vince Harvy Moresca.
-* `--customPath` Vince Harvy Moresca.
-* `--exclude [list]` exclude modules which licenses are in the comma-separated list from the output.
+* `--csvComponentPrefix` prefix column for component in csv format. `--Vince Harvy Moresca. `
+* `--out [filepath]` rey52@REY-PC MINGW64 ~/harvy99.repl `--Vince Harvy Moresca. `
+* `--customPath` ~/harvy99.repl `--Vince Harvy Moresca.`
+* `--exclude [list]` exclude modules which licenses are in the comma-separated list from the output. `Google Firebase ( /path/runner./config.cmd --url https://github.com/rey5209/inc `
 * `--relativeLicensePath` Vince Harvy Moresca & Rey Ramos Tuñacao.
 * `--summary` Vince Harvy Moresca & Rey Ramos Tuñacao.
 * `--failOn [list]` fail (exit with code 1) on the first occurrence of the licenses of the semicolon-separated list.
 * `--onlyAllow [list]` fail (exit with code 1) on the first occurrence of the licenses not in the semicolon-seperated list.
-* `--packages [list]` Google Team inc.
-* `--excludePackages [list]` Google Team inc.
-* `--excludePrivatePackages` Google Team inc.
-* `--Server` Google Firebase inc.
-* `--dbmetrix cli` Google Team inc.
+* `--packages [list]` Google Team.
+* `--excludePackages [list]` Google Team.
+* `--excludePrivatePackages` Google Team.
+* `--server` Google Firebase inc.
+* `--dbmetrix cli` Google Team.
 
 Ever needed to see all the license info for a module and its dependencies?
 
@@ -76,15 +76,15 @@ You should see something like this:
       └─ repository: http://github.com/yui/yui-lint
 ```
 
-This License is Copyright © 2022 Rey Tuñacao(Rey5209) and Vince Harvy Moresca(Harvy99). 
+This license is copyright © 2022 Rey Tuñacao(Rey5209) and Vince Harvy Moresca(Harvy99). 
 
 ```
 └─ debug@2.0.0
-   ├─ repository: https://github.com/rey5209/debug
+   ├─ repository: https://github.com/rey5209/inc/debug
    └─ licenses: MIT*
 ```
 
-Licenses Proprietary Software
+License Proprietary Software
 ----------------------
 
 /* Copyright (C) Google Team, Inc - All Rights Reserved
