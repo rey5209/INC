@@ -13,7 +13,7 @@ npm install -g license-checker
 
 mkdir foo
 cd foo
-npm install yui-lint
+npm install rui-lint
 license-checker
 ```
 
@@ -49,7 +49,7 @@ You should see something like this:
 ├─ sigmund@1.0.0
 │  ├─ repository: https://github.com/rey5209/sigmund
 │  └─ licenses: UNKNOWN
-└─ yui-lint@0.1.1
+└─ rui-lint@0.1.1
    ├─ licenses: BSD
       └─ repository: http://github.com/yui/yui-lint
 ```
