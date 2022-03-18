@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfo-today.jpg",
-    "tittle" : "FEBRUARY 26,2022 | 5:30 - 6:00 pm ",
+    "tittle" : "March 8,2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,18 +14,17 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Australia East",          "duration":"1:0",  "link":"https://www.facebook.com/events/327304979448923/", "image":"12.jpg",        "views":  0},
-      {"lokal":"Camanava",                "duration":"29:0",  "link":"https://www.facebook.com/events/327304979448923/", "image":"12.jpg",        "views":  0},
-      {"lokal":"Central",                 "duration":"29:0",  "link":"https://www.facebook.com/events/327304979448923/", "image":"12.jpg",        "views":  0},
-      {"lokal":"Southeast California",    "duration":"29:0",  "link":"https://www.facebook.com/events/327304979448923/", "image":"12.jpg",        "views":  0},
-      {"lokal":"Negros Del Norte",    "duration":"29:0",  "link":"https://www.facebook.com/events/327304979448923/", "image":"12.jpg",        "views":  0}
+      {"lokal":"San Jose Nueva Ecija",          "duration":"10:0",  "link":"https://www.facebook.com/events/327304979448923/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Sta. Cruz, Laguna",             "duration":"10:0",  "link":"https://www.facebook.com/events/327304979448923/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Isabela South",                 "duration":"10:0",  "link":"https://www.facebook.com/events/327304979448923/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Cavite South",                  "duration":"10:0",  "link":"https://www.facebook.com/events/327304979448923/", "image":"22.jpg",        "views":  0}
        
      
       ] 
     },
     {
-    "banner" : "c.jpg",
-      "tittle" : "FEBRUARY 25,2022 | 10:30 - 6:00 pm ",
+    "banner" : "cfo-today.jpg",
+      "tittle" : "March 8,2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -37,11 +36,10 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Australia East",           "duration":"29:0",  "link":"https://www.youtube.com/watch?v=ouiOEMPm_-A", "image":"12.jpg",                  "views":  0},
-        {"lokal":"Camanava",                 "duration":"29:0",  "link":"https://www.youtube.com/watch?v=ouiOEMPm_-A", "image":"12.jpg",                  "views":  0},
-        {"lokal":"Central",                  "duration":"29:0",  "link":"https://www.youtube.com/watch?v=ouiOEMPm_-A", "image":"12.jpg",                  "views":  0},
-        {"lokal":"Southeast California",     "duration":"29:0",  "link":"https://www.youtube.com/watch?v=ouiOEMPm_-A", "image":"12.jpg",                  "views":  0},
-        {"lokal":"Negros Del Norte",    "duration":"29:0",  "link":"https://www.youtube.com/watch?v=ouiOEMPm_-A/", "image":"12.jpg",        "views":  0}
+        {"lokal":"San Jose Nueva Ecija",           "duration":"10:0",  "link":"https://www.youtube.com/watch?v=ouiOEMPm_-A",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Sta. Cruz, Laguna",              "duration":"10:0", "link":"https://www.youtube.com/watch?v=ouiOEMPm_-A",   "image":"22.jpg",                  "views":  0},
+        {"lokal":"Isabela South",                  "duration":"10:0",  "link":"https://www.youtube.com/watch?v=ouiOEMPm_-A",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Cavite South",                   "duration":"10:0",  "link":"https://www.youtube.com/watch?v=ouiOEMPm_-A",  "image":"22.jpg",                  "views":  0}
         ] 
       }
       
