@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfo-today.jpg",
-    "tittle" : "March 18,2022 | 5:30 - 6:00 pm ",
+    "tittle" : "March 19,2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,17 +14,17 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"San Jose City Nueva, Ecija",    "duration":"10:0",  "link":"https://www.facebook.com/events/998912594392855/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Sta. Cruz, Laguna",             "duration":"10:0",  "link":"https://www.facebook.com/events/998912594392855/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Isabela South",                 "duration":"10:0",  "link":"https://www.facebook.com/events/998912594392855/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cavite South",                  "duration":"10:0",  "link":"https://www.facebook.com/events/998912594392855/", "image":"22.jpg",        "views":  0}
+      {"lokal":"San Jose City Nueva, Ecija",    "duration":"10:0",  "link":"https://www.facebook.com/events/956233438423083/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Sta. Cruz, Laguna",             "duration":"10:0",  "link":"https://www.facebook.com/events/956233438423083/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Isabela South",                 "duration":"10:0",  "link":"https://www.facebook.com/events/956233438423083/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Cavite South",                  "duration":"10:0",  "link":"https://www.facebook.com/events/956233438423083/", "image":"22.jpg",        "views":  0}
        
      
       ] 
     },
     {
     "banner" : "cfo-today.jpg",
-      "tittle" : "March 18,2022 | 5:30 - 6:00 pm ",
+      "tittle" : "March 19,2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -36,10 +36,10 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"San Jose City Nueva, Ecija",     "duration":"10:0",  "link":"https://www.youtube.com/watch?v=47dyh8bbjmU",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Sta. Cruz, Laguna",              "duration":"10:0",  "link":"https://www.youtube.com/watch?v=47dyh8bbjmU",   "image":"22.jpg",                  "views":  0},
-        {"lokal":"Isabela South",                  "duration":"10:0",  "link":"https://www.youtube.com/watch?v=47dyh8bbjmU",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Cavite South",                   "duration":"10:0",  "link":"https://www.youtube.com/watch?v=47dyh8bbjmU",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"San Jose City Nueva, Ecija",     "duration":"10:0",  "link":"https://www.youtube.com/watch?v=NHVsj1AECDI",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Sta. Cruz, Laguna",              "duration":"10:0",  "link":"https://www.youtube.com/watch?v=NHVsj1AECDI",   "image":"22.jpg",                  "views":  0},
+        {"lokal":"Isabela South",                  "duration":"10:0",  "link":"https://www.youtube.com/watch?v=NHVsj1AECDI",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Cavite South",                   "duration":"10:0",  "link":"https://www.youtube.com/watch?v=NHVsj1AECDI",  "image":"22.jpg",                  "views":  0}
         ] 
       }
       
