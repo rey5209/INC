@@ -36,7 +36,7 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"San Jose City Nueva, Ecija",     "duration":"30:0",  "link":"https://www.youtube.com/watch?v=NHVsj1AECDI",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"San Jose City,Nueva Ecija",     "duration":"30:0",  "link":"https://www.youtube.com/watch?v=NHVsj1AECDI",  "image":"22.jpg",                  "views":  0},
         {"lokal":"Sta. Cruz, Laguna",              "duration":"30:0",  "link":"https://www.youtube.com/watch?v=NHVsj1AECDI",  "image":"22.jpg",                  "views":  0},
         {"lokal":"Isabela South",                  "duration":"30:0",  "link":"https://www.youtube.com/watch?v=NHVsj1AECDI",  "image":"22.jpg",                  "views":  0},
         {"lokal":"Cavite South",                   "duration":"30:0",  "link":"https://www.youtube.com/watch?v=NHVsj1AECDI",  "image":"22.jpg",                  "views":  0}
