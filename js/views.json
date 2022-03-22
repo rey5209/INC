@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfo-today.jpg",
-    "tittle" : "March 21,2022 | 5:30 - 6:00 pm ",
+    "tittle" : "March 22,2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,17 +14,17 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Zamboanga Del Norte",    "duration":"30:0",  "link":"https://www.facebook.com/events/711190556721217/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Sarangani",              "duration":"30:0",  "link":"https://www.facebook.com/events/711190556721217/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Negros Oriental",        "duration":"30:0",  "link":"https://www.facebook.com/events/711190556721217/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cebu City, Cebu",        "duration":"30:0",  "link":"https://www.facebook.com/events/711190556721217/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Metro Manila South",   "duration":"30:0",  "link":"https://www.facebook.com/events/1207209806478361/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bukidnon",             "duration":"30:0",  "link":"https://www.facebook.com/events/1207209806478361/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Pampanga West",        "duration":"30:0",  "link":"https://www.facebook.com/events/1207209806478361/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Quezon",               "duration":"30:0",  "link":"https://www.facebook.com/events/1207209806478361/", "image":"22.jpg",        "views":  0}
        
      
       ] 
     },
     {
     "banner" : "cfo-today.jpg",
-      "tittle" : "March 21,2022 | 5:30 - 6:00 pm ",
+      "tittle" : "March 22,2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -36,10 +36,10 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Zamboanga Del Norte",     "duration":"30:0",  "link":"https://www.youtube.com/watch?v=gh7AQcHMzYw",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Sarangani",               "duration":"30:0",  "link":"https://www.youtube.com/watch?v=gh7AQcHMzYw",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Negros Oriental",         "duration":"30:0",  "link":"https://www.youtube.com/watch?v=gh7AQcHMzYw",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Cebu City, Cebu",         "duration":"30:0",  "link":"https://www.youtube.com/watch?v=gh7AQcHMzYw",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Metro Manila South",    "duration":"30:0",  "link":"https://www.youtube.com/watch?v=NpAPJEFr7PU",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Bukidnon",              "duration":"30:0",  "link":"https://www.youtube.com/watch?v=NpAPJEFr7PU",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Pampanga West",         "duration":"30:0",  "link":"https://www.youtube.com/watch?v=NpAPJEFr7PU",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Quezon",                "duration":"30:0",  "link":"https://www.youtube.com/watch?v=NpAPJEFr7PU",  "image":"22.jpg",                  "views":  0}
         ] 
       }
       
