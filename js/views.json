@@ -14,10 +14,10 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Metro Manila South",   "duration":"30:0",  "link":"https://www.facebook.com/events/1207209806478361/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Bukidnon",             "duration":"30:0",  "link":"https://www.facebook.com/events/1207209806478361/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Pampanga West",        "duration":"30:0",  "link":"https://www.facebook.com/events/1207209806478361/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Quezon",               "duration":"30:0",  "link":"https://www.facebook.com/events/1207209806478361/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Metro Manila South",   "duration":"25:0",  "link":"https://www.facebook.com/events/1207209806478361/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bukidnon",             "duration":"25:0",  "link":"https://www.facebook.com/events/1207209806478361/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Pampanga West",        "duration":"25:0",  "link":"https://www.facebook.com/events/1207209806478361/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Quezon",               "duration":"25:0",  "link":"https://www.facebook.com/events/1207209806478361/", "image":"22.jpg",        "views":  0}
        
      
       ] 
@@ -36,10 +36,10 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Metro Manila South",    "duration":"30:0",  "link":"https://www.youtube.com/watch?v=NpAPJEFr7PU",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Bukidnon",              "duration":"30:0",  "link":"https://www.youtube.com/watch?v=NpAPJEFr7PU",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Pampanga West",         "duration":"30:0",  "link":"https://www.youtube.com/watch?v=NpAPJEFr7PU",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Quezon",                "duration":"30:0",  "link":"https://www.youtube.com/watch?v=NpAPJEFr7PU",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Metro Manila South",    "duration":"25:0",  "link":"https://www.youtube.com/watch?v=NpAPJEFr7PU",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Bukidnon",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=NpAPJEFr7PU",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Pampanga West",         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=NpAPJEFr7PU",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Quezon",                "duration":"25:0",  "link":"https://www.youtube.com/watch?v=NpAPJEFr7PU",  "image":"22.jpg",                  "views":  0}
         ] 
       }
       
