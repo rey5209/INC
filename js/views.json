@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "International | March 24,2022 | 5:30 - 6:00 pm ",
+    "tittle" : " March 25,2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,18 +14,18 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Australia East",   "duration":"25:0",  "link":"https://www.facebook.com/events/470777998074038/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Alaska",           "duration":"25:0",  "link":"https://www.facebook.com/events/470777998074038/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Florida",          "duration":"25:0",  "link":"https://www.facebook.com/events/470777998074038/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Mediterranean",    "duration":"25:0",  "link":"https://www.facebook.com/events/470777998074038/", "image":"22.jpg",        "views":  0},
-      {"lokal":"New Zealand",      "duration":"25:0",  "link":"https://www.facebook.com/events/470777998074038/", "image":"22.jpg",        "views":  0}
+      {"lokal":"La Union",            "duration":"25:0",  "link":"https://www.facebook.com/events/347803467288942/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Davao Del Sur",       "duration":"25:0",  "link":"https://www.facebook.com/events/347803467288942/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Rizal",               "duration":"25:0",  "link":"https://www.facebook.com/events/347803467288942/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Zamboanga Del Sur",   "duration":"25:0",  "link":"https://www.facebook.com/events/347803467288942/", "image":"22.jpg",        "views":  0}
+      
        
      
       ] 
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "International | March 24,2022 | 5:30 - 6:00 pm ",
+      "tittle" : " March 25,2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -37,11 +37,11 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Australia East",    "duration":"25:0",  "link":"https://www.youtube.com/watch?v=7I2T0EgMDPM",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Alaska",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=7I2T0EgMDPM",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Florida",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=7I2T0EgMDPM",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Mediterranean",     "duration":"25:0",  "link":"https://www.youtube.com/watch?v=7I2T0EgMDPM",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"New Zealand",       "duration":"25:0",  "link":"https://www.youtube.com/watch?v=7I2T0EgMDPM",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"La Union",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=8DR70h3fsX0",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Davao Del Sur",        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=8DR70h3fsX0",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Rizal",                "duration":"25:0",  "link":"https://www.youtube.com/watch?v=8DR70h3fsX0",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Zamboanga Del Sur",    "duration":"25:0",  "link":"https://www.youtube.com/watch?v=8DR70h3fsX0",  "image":"22.jpg",                  "views":  0}
+        
           
           
         ] 
