@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : " March 25,2022 | 5:30 - 6:00 pm ",
+    "tittle" : " March 28,2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,10 +14,11 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"La Union",            "duration":"25:0",  "link":"https://www.facebook.com/events/347803467288942/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Davao Del Sur",       "duration":"25:0",  "link":"https://www.facebook.com/events/347803467288942/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Rizal",               "duration":"25:0",  "link":"https://www.facebook.com/events/347803467288942/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Zamboanga Del Sur",   "duration":"25:0",  "link":"https://www.facebook.com/events/347803467288942/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Calamian",            "duration":"25:0",  "link":"https://www.facebook.com/events/1299660590520036/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bulacan North",       "duration":"25:0",  "link":"https://www.facebook.com/events/1299660590520036/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Nueva Vizcaya",       "duration":"25:0",  "link":"https://www.facebook.com/events/1299660590520036/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Manila",              "duration":"25:0",  "link":"https://www.facebook.com/events/1299660590520036/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Zambales North",      "duration":"25:0",  "link":"https://www.facebook.com/events/1299660590520036/", "image":"22.jpg",        "views":  0}
       
        
      
@@ -25,7 +26,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : " March 25,2022 | 5:30 - 6:00 pm ",
+      "tittle" : " March 28,2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -37,10 +38,11 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"La Union",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=8DR70h3fsX0",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Davao Del Sur",        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=8DR70h3fsX0",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Rizal",                "duration":"25:0",  "link":"https://www.youtube.com/watch?v=8DR70h3fsX0",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Zamboanga Del Sur",    "duration":"25:0",  "link":"https://www.youtube.com/watch?v=8DR70h3fsX0",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Calamian",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=v9xTY8XH_Wg",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Bulacan North",        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=v9xTY8XH_Wg",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Nueva Vizcaya",        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=v9xTY8XH_Wg",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Manila",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=v9xTY8XH_Wg",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Zambales North",       "duration":"25:0",  "link":"https://www.youtube.com/watch?v=v9xTY8XH_Wg",  "image":"22.jpg",                  "views":  0}
         
           
           
