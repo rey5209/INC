@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : " March 30,2022 | 5:30 - 6:00 pm ",
+    "tittle" : "International | March 31,2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,11 +14,11 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Aurora",                  "duration":"25:0",  "link":"https://www.facebook.com/events/1106437273479722/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Capas, Tarlac",           "duration":"25:0",  "link":"https://www.facebook.com/events/1106437273479722/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Pampanga North",          "duration":"25:0",  "link":"https://www.facebook.com/events/1106437273479722/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Sta. Rosa, Nueva Ecija",  "duration":"25:0",  "link":"https://www.facebook.com/events/1106437273479722/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Lingayen, Pangasinan",    "duration":"25:0",  "link":"https://www.facebook.com/events/1106437273479722/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Australia West",    "duration":"25:0",  "link":"https://www.facebook.com/events/2581584621976176/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Calgary",           "duration":"25:0",  "link":"https://www.facebook.com/events/2581584621976176/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Thailand",          "duration":"25:0",  "link":"https://www.facebook.com/events/2581584621976176/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Sabah",             "duration":"25:0",  "link":"https://www.facebook.com/events/2581584621976176/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Qatar",             "duration":"25:0",  "link":"https://www.facebook.com/events/2581584621976176/", "image":"22.jpg",        "views":  0}
       
        
      
@@ -26,7 +26,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : " March 30,2022 | 5:30 - 6:00 pm ",
+      "tittle" : "International | March 31,2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -38,11 +38,11 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Aurora",                   "duration":"25:0",  "link":"https://www.youtube.com/watch?v=-WLH53kjzng",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Capas, Tarlac",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=-WLH53kjzng",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Pampanga North",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=-WLH53kjzng",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Sta. Rosa, Nueva Ecija",   "duration":"25:0",  "link":"https://www.youtube.com/watch?v=-WLH53kjzng",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Lingayen, Pangasinan",     "duration":"25:0",  "link":"https://www.youtube.com/watch?v=-WLH53kjzng",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Australia West",     "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zmExN-ccwpI",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Calgary",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zmExN-ccwpI",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Thailand",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zmExN-ccwpI",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Sabah",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zmExN-ccwpI",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Qatar",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zmExN-ccwpI",  "image":"22.jpg",                  "views":  0}
         
           
           
