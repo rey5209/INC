@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "International | March 31,2022 | 5:30 - 6:00 pm ",
+    "tittle" : " April 1,2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,11 +14,12 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Australia West",    "duration":"25:0",  "link":"https://www.facebook.com/events/2581584621976176/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Calgary",           "duration":"25:0",  "link":"https://www.facebook.com/events/2581584621976176/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Thailand",          "duration":"25:0",  "link":"https://www.facebook.com/events/2581584621976176/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Sabah",             "duration":"25:0",  "link":"https://www.facebook.com/events/2581584621976176/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Qatar",             "duration":"25:0",  "link":"https://www.facebook.com/events/2581584621976176/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Palawan South",                 "duration":"25:0",  "link":"https://www.facebook.com/events/2126351357518057/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Cabanatuan City",               "duration":"25:0",  "link":"https://www.facebook.com/events/2126351357518057/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Nueva Ecija",                   "duration":"25:0",  "link":"https://www.facebook.com/events/2126351357518057/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Valladolid",                    "duration":"25:0",  "link":"https://www.facebook.com/events/2126351357518057/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Negros Occidental",             "duration":"25:0",  "link":"https://www.facebook.com/events/2126351357518057/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Davao De Oro",                  "duration":"25:0",  "link":"https://www.facebook.com/events/2126351357518057/", "image":"22.jpg",        "views":  0}
       
        
      
@@ -26,7 +27,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "International | March 31,2022 | 5:30 - 6:00 pm ",
+      "tittle" : " April 1,2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -38,11 +39,12 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Australia West",     "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zmExN-ccwpI",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Calgary",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zmExN-ccwpI",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Thailand",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zmExN-ccwpI",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Sabah",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zmExN-ccwpI",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Qatar",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zmExN-ccwpI",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Palawan South",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=MScG3PBaHVg",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Cabanatuan City",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=MScG3PBaHVg",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Nueva Ecija",                "duration":"25:0",  "link":"https://www.youtube.com/watch?v=MScG3PBaHVg",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Valladolid",                 "duration":"25:0",  "link":"https://www.youtube.com/watch?v=MScG3PBaHVg",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Negros Occidental",          "duration":"25:0",  "link":"https://www.youtube.com/watch?v=MScG3PBaHVg",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Davao De Oro",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=MScG3PBaHVg",  "image":"22.jpg",                  "views":  0}
         
           
           
