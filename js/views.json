@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : " April 1,2022 | 5:30 - 6:00 pm ",
+    "tittle" : "CFO Updates | April 2,2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,12 +14,11 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Palawan South",                 "duration":"25:0",  "link":"https://www.facebook.com/events/2126351357518057/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cabanatuan City",               "duration":"25:0",  "link":"https://www.facebook.com/events/2126351357518057/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Nueva Ecija",                   "duration":"25:0",  "link":"https://www.facebook.com/events/2126351357518057/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Valladolid",                    "duration":"25:0",  "link":"https://www.facebook.com/events/2126351357518057/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Negros Occidental",             "duration":"25:0",  "link":"https://www.facebook.com/events/2126351357518057/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Davao De Oro",                  "duration":"25:0",  "link":"https://www.facebook.com/events/2126351357518057/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Caribbean",                  "duration":"25:0",  "link":"https://www.facebook.com/events/215191967488389/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Lingayen, Pangasinan",       "duration":"25:0",  "link":"https://www.facebook.com/events/215191967488389/", "image":"22.jpg",        "views":  0},
+      {"lokal":"La Union",                   "duration":"25:0",  "link":"https://www.facebook.com/events/215191967488389/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bulacan East",               "duration":"25:0",  "link":"https://www.facebook.com/events/215191967488389/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Florida",                    "duration":"25:0",  "link":"https://www.facebook.com/events/215191967488389/", "image":"22.jpg",        "views":  0}
       
        
      
@@ -27,7 +26,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : " April 1,2022 | 5:30 - 6:00 pm ",
+      "tittle" : "CFO Updates | April 2,2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -39,12 +38,11 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Palawan South",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=MScG3PBaHVg",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Cabanatuan City",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=MScG3PBaHVg",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Nueva Ecija",                "duration":"25:0",  "link":"https://www.youtube.com/watch?v=MScG3PBaHVg",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Valladolid",                 "duration":"25:0",  "link":"https://www.youtube.com/watch?v=MScG3PBaHVg",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Negros Occidental",          "duration":"25:0",  "link":"https://www.youtube.com/watch?v=MScG3PBaHVg",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Davao De Oro",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=MScG3PBaHVg",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Caribbean",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zgfPzpR_PmM",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Lingayen, Pangasinan",    "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zgfPzpR_PmM",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"La Union",                "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zgfPzpR_PmM",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Bulacan East",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zgfPzpR_PmM",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Florida",                 "duration":"25:0",  "link":"https://www.youtube.com/watch?v=zgfPzpR_PmM",  "image":"22.jpg",                  "views":  0}
         
           
           
