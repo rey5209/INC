@@ -125,7 +125,7 @@ $(document).ready(function() {
 
       $('.copyRights').text(data.copyrigth)
       $('.copyRightsSite').text(data.copyRightSite) 
-      $("copyRightsSite").attr("href", data.copyRightLink)
+      $(".copyRightsSite").attr("href", data.copyRightLink)
       
       data.social.forEach(setSocial); 
       function setSocial(item, index) { 
