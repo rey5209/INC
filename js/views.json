@@ -14,6 +14,7 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
+      {"lokal":"Aklan",                  "duration":"25:0",  "link":"https://www.facebook.com/events/284466773863164/", "image":"22.jpg",        "views":  0},
       {"lokal":"Bulacan East",           "duration":"25:0",  "link":"https://www.facebook.com/events/284466773863164/", "image":"22.jpg",        "views":  0},
       {"lokal":"Central",                "duration":"25:0",  "link":"https://www.facebook.com/events/284466773863164/", "image":"22.jpg",        "views":  0},
       {"lokal":"Quezon South",           "duration":"25:0",  "link":"https://www.facebook.com/events/284466773863164/", "image":"22.jpg",        "views":  0},
@@ -38,6 +39,7 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
+        {"lokal":"Aklan",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=RzIRX6aeBsw",  "image":"22.jpg",                  "views":  0},
         {"lokal":"Bulacan East",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=RzIRX6aeBsw",  "image":"22.jpg",                  "views":  0},
         {"lokal":"Central",                 "duration":"25:0",  "link":"https://www.youtube.com/watch?v=RzIRX6aeBsw",  "image":"22.jpg",                  "views":  0},
         {"lokal":"Quezon South",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=RzIRX6aeBsw",  "image":"22.jpg",                  "views":  0},
