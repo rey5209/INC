@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : " International | April 7, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : " April 8, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,11 +14,11 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Western Europe",                    "duration":"25:0",  "link":"https://www.facebook.com/events/3046731848871824/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Northwest California",              "duration":"25:0",  "link":"https://www.facebook.com/events/3046731848871824/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Greater Toronto",                   "duration":"25:0",  "link":"https://www.facebook.com/events/3046731848871824/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Ottawa",                            "duration":"25:0",  "link":"https://www.facebook.com/events/3046731848871824/", "image":"22.jpg",        "views":  0},
-      {"lokal":"United Kingdom",                    "duration":"25:0",  "link":"https://www.facebook.com/events/3046731848871824/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Maynila",                    "duration":"25:0",  "link":"https://www.facebook.com/events/1142910869873938/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Tarlac City, Tarlac",        "duration":"25:0",  "link":"https://www.facebook.com/events/1142910869873938/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bataan",                     "duration":"25:0",  "link":"https://www.facebook.com/events/1142910869873938/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Zambales South",             "duration":"25:0",  "link":"https://www.facebook.com/events/1142910869873938/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Isabela East",               "duration":"25:0",  "link":"https://www.facebook.com/events/1142910869873938/", "image":"22.jpg",        "views":  0}
       
       
        
@@ -27,7 +27,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : " International | April 7, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : " April 8, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -39,11 +39,11 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Western Europe",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=ZQFwgUNJhzY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Northwest California",        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=ZQFwgUNJhzY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Greater Toronto",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=ZQFwgUNJhzY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Ottawa",                      "duration":"25:0",  "link":"https://www.youtube.com/watch?v=ZQFwgUNJhzY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"United Kingdom",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=ZQFwgUNJhzY",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Maynila",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Bpu5dpHvwys",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Tarlac City, Tarlac",  "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Bpu5dpHvwys",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Bataan",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Bpu5dpHvwys",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Zambales South",       "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Bpu5dpHvwys",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Isabela East",         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Bpu5dpHvwys",  "image":"22.jpg",                  "views":  0}
         
           
           
