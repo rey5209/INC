@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "CFO Updates | April 9, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : "CFO Updates | April 10, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,11 +14,11 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Southern Ontario",                 "duration":"25:0",  "link":"https://www.facebook.com/events/4850708661691780/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Bataan",                           "duration":"25:0",  "link":"https://www.facebook.com/events/4850708661691780/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Isabela East",                     "duration":"25:0",  "link":"https://www.facebook.com/events/4850708661691780/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Catanduanes",                      "duration":"25:0",  "link":"https://www.facebook.com/events/4850708661691780/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Virginia",                         "duration":"25:0",  "link":"https://www.facebook.com/events/4850708661691780/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Tokyo, Japan",                 "duration":"25:0",  "link":"https://www.facebook.com/events/3157246937896462/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Iloilo South",                 "duration":"25:0",  "link":"https://www.facebook.com/events/3157246937896462/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Metro Manila South",           "duration":"25:0",  "link":"https://www.facebook.com/events/3157246937896462/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Virginia",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3157246937896462/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Malaysia",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3157246937896462/", "image":"22.jpg",        "views":  0}
       
       
        
@@ -27,7 +27,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "CFO Updates | April 9, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : "CFO Updates | April 10, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -39,11 +39,11 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Southern Ontario",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=iGfW8015MU8",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Bataan",                     "duration":"25:0",  "link":"https://www.youtube.com/watch?v=iGfW8015MU8",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Isabela East",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=iGfW8015MU8",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Catanduanes",                "duration":"25:0",  "link":"https://www.youtube.com/watch?v=iGfW8015MU8",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Virginia",                   "duration":"25:0",  "link":"https://www.youtube.com/watch?v=iGfW8015MU8",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Tokyo, Japan",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fZMUOnHbsAU",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Iloilo South",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fZMUOnHbsAU",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Metro Manila South",     "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fZMUOnHbsAU",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Virginia",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fZMUOnHbsAU",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Malaysia",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fZMUOnHbsAU",  "image":"22.jpg",                  "views":  0}
         
           
           
