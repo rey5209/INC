@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : " April 13, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : "International | April 14, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,11 +14,11 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Sta. Cruz, Laguna",               "duration":"25:0",  "link":"https://www.facebook.com/events/522996425865741/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Camanava",                        "duration":"25:0",  "link":"https://www.facebook.com/events/522996425865741/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Negros Occidental",               "duration":"25:0",  "link":"https://www.facebook.com/events/522996425865741/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Bulacan",                         "duration":"25:0",  "link":"https://www.facebook.com/events/522996425865741/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cebu City, Cebu",                 "duration":"25:0",  "link":"https://www.facebook.com/events/522996425865741/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Italy South",                    "duration":"25:0",  "link":"https://www.facebook.com/events/2897475733878345/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Central Europe",                 "duration":"25:0",  "link":"https://www.facebook.com/events/2897475733878345/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Northern Midwest",               "duration":"25:0",  "link":"https://www.facebook.com/events/2897475733878345/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Taiwan South",                   "duration":"25:0",  "link":"https://www.facebook.com/events/2897475733878345/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Ottawa, Canada",                 "duration":"25:0",  "link":"https://www.facebook.com/events/2897475733878345/", "image":"22.jpg",        "views":  0}
       
       
        
@@ -27,7 +27,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : " April 13, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : "International | April 14, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -39,11 +39,11 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Sta. Cruz, Laguna",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=AuGdp1HKUTU",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Camanava",                      "duration":"25:0",  "link":"https://www.youtube.com/watch?v=AuGdp1HKUTU",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Negros Occidental",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=AuGdp1HKUTU",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Bulacan",                       "duration":"25:0",  "link":"https://www.youtube.com/watch?v=AuGdp1HKUTU",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Cebu City, Cebu",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=AuGdp1HKUTU",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Italy South",                  "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Ss01OGDQHKY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Central Europe",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Ss01OGDQHKY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Northern Midwest",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Ss01OGDQHKY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Taiwan South",                 "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Ss01OGDQHKY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Ottawa, Canada",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Ss01OGDQHKY",  "image":"22.jpg",                  "views":  0}
         
           
           
