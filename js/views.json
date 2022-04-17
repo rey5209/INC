@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "Updates | April 16, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : "Updates | April 17, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,11 +14,11 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Caribbean",                       "duration":"25:0",  "link":"https://www.facebook.com/events/407070107441140/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Davao City",                      "duration":"25:0",  "link":"https://www.facebook.com/events/407070107441140/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Bacolod City, Negros Occidental", "duration":"25:0",  "link":"https://www.facebook.com/events/407070107441140/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Malaysia",                        "duration":"25:0",  "link":"https://www.facebook.com/events/407070107441140/", "image":"22.jpg",        "views":  0},
-      {"lokal":"South Korea",                     "duration":"25:0",  "link":"https://www.facebook.com/events/407070107441140/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Alaska",                        "duration":"25:0",  "link":"https://www.facebook.com/events/243842711247471/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bogo City, Cebu",               "duration":"25:0",  "link":"https://www.facebook.com/events/243842711247471/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Eastern Samar",                 "duration":"25:0",  "link":"https://www.facebook.com/events/243842711247471/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Western Europe",                "duration":"25:0",  "link":"https://www.facebook.com/events/243842711247471/", "image":"22.jpg",        "views":  0},
+      {"lokal":"UAE South",                     "duration":"25:0",  "link":"https://www.facebook.com/events/243842711247471/", "image":"22.jpg",        "views":  0}
       
       
        
@@ -27,7 +27,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "Updates | April 16, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : "Updates | April 17, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -39,11 +39,11 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Caribbean",                       "duration":"25:0",  "link":"https://www.youtube.com/watch?v=gLYLCGS0lKY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Davao City",                      "duration":"25:0",  "link":"https://www.youtube.com/watch?v=gLYLCGS0lKY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Bacolod City, Negros Occidental", "duration":"25:0",  "link":"https://www.youtube.com/watch?v=gLYLCGS0lKY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Malaysia",                        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=gLYLCGS0lKY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"South Korea",                     "duration":"25:0",  "link":"https://www.youtube.com/watch?v=gLYLCGS0lKY",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Alaska",                        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=FLNRuD3zaw4",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Bogo City, Cebu",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=FLNRuD3zaw4",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Eastern Samar",                 "duration":"25:0",  "link":"https://www.youtube.com/watch?v=FLNRuD3zaw4",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Western Europe",                "duration":"25:0",  "link":"https://www.youtube.com/watch?v=FLNRuD3zaw4",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"UAE South",                     "duration":"25:0",  "link":"https://www.youtube.com/watch?v=FLNRuD3zaw4",  "image":"22.jpg",                  "views":  0}
         
           
           
