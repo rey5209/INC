@@ -14,7 +14,7 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Romblon",               "duration":"25:0",  "link":"https://www.facebook.com/events/1417699678669974/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Catanduanes",           "duration":"25:0",  "link":"https://www.facebook.com/events/1417699678669974/", "image":"22.jpg",        "views":  0},
       {"lokal":"Cagayan West",          "duration":"25:0",  "link":"https://www.facebook.com/events/1417699678669974/", "image":"22.jpg",        "views":  0},
       {"lokal":"Aklan",                 "duration":"25:0",  "link":"https://www.facebook.com/events/1417699678669974/", "image":"22.jpg",        "views":  0},
       {"lokal":"Albay",                 "duration":"25:0",  "link":"https://www.facebook.com/events/1417699678669974/", "image":"22.jpg",        "views":  0},
@@ -39,7 +39,7 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Romblon",                    "duration":"25:0",  "link":"https://www.youtube.com/watch?v=GcS4-BBatmM",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Catanduanes",                "duration":"25:0",  "link":"https://www.youtube.com/watch?v=GcS4-BBatmM",  "image":"22.jpg",                  "views":  0},
         {"lokal":"Cagayan West",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=GcS4-BBatmM",  "image":"22.jpg",                  "views":  0},
         {"lokal":"Aklan",                      "duration":"25:0",  "link":"https://www.youtube.com/watch?v=GcS4-BBatmM",  "image":"22.jpg",                  "views":  0},
         {"lokal":"Albay",                      "duration":"25:0",  "link":"https://www.youtube.com/watch?v=GcS4-BBatmM",  "image":"22.jpg",                  "views":  0},
