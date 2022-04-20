@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : " April 19, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : " April 20, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,11 +14,11 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Palayan City, Nueva Ecija",           "duration":"25:0",  "link":"https://www.facebook.com/events/1477974559322732/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Bislig City, Surigao Del Sur",        "duration":"25:0",  "link":"https://www.facebook.com/events/1477974559322732/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Quezon",                              "duration":"25:0",  "link":"https://www.facebook.com/events/1477974559322732/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Palawan North",                       "duration":"25:0",  "link":"https://www.facebook.com/events/1477974559322732/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Naga City, Camarines Sur",            "duration":"25:0",  "link":"https://www.facebook.com/events/1477974559322732/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Cotabato North",                  "duration":"25:0",  "link":"https://www.facebook.com/events/511124267165198/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Masbate",                         "duration":"25:0",  "link":"https://www.facebook.com/events/511124267165198/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Paniqui, Tarlac",                 "duration":"25:0",  "link":"https://www.facebook.com/events/511124267165198/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Koronadal City, South Cotabato",  "duration":"25:0",  "link":"https://www.facebook.com/events/511124267165198/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Zamboanga Del Norte",             "duration":"25:0",  "link":"https://www.facebook.com/events/511124267165198/", "image":"22.jpg",        "views":  0}
       
       
        
@@ -27,7 +27,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : " April 19, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : " April 20, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -39,11 +39,11 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Palayan City, Nueva Ecija",                "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Yro32jlis_w",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Bislig City, Surigao Del Sur",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Yro32jlis_w",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Quezon",                                   "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Yro32jlis_w",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Palawan North",                            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Yro32jlis_w",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Naga City, Camarines Sur",                 "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Yro32jlis_w",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Cotabato North",                  "duration":"25:0",  "link":"https://www.youtube.com/watch?v=-4W_WaG3G9g",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Masbate",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=-4W_WaG3G9g",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Paniqui, Tarlac",                 "duration":"25:0",  "link":"https://www.youtube.com/watch?v=-4W_WaG3G9g",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Koronadal City, South Cotabato",  "duration":"25:0",  "link":"https://www.youtube.com/watch?v=-4W_WaG3G9g",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Zamboanga Del Norte",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=-4W_WaG3G9g",  "image":"22.jpg",                  "views":  0}
         
           
           
