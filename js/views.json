@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "International | April 21, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : " April 22, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,11 +14,11 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Oregon",                    "duration":"25:0",  "link":"https://www.facebook.com/events/4892241004162205/", "image":"22.jpg",        "views":  0},
-      {"lokal":"L.A County",                "duration":"25:0",  "link":"https://www.facebook.com/events/4892241004162205/", "image":"22.jpg",        "views":  0},
-      {"lokal":"South Korea",               "duration":"25:0",  "link":"https://www.facebook.com/events/4892241004162205/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Australia West",            "duration":"25:0",  "link":"https://www.facebook.com/events/4892241004162205/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Northwest California",      "duration":"25:0",  "link":"https://www.facebook.com/events/4892241004162205/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Rizal",                     "duration":"25:0",  "link":"https://www.facebook.com/events/4952957554799488/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Catanduanes",               "duration":"25:0",  "link":"https://www.facebook.com/events/4952957554799488/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Cagayan South",             "duration":"25:0",  "link":"https://www.facebook.com/events/4952957554799488/", "image":"22.jpg",        "views":  0},
+      {"lokal":"San Pablo City, Laguna",    "duration":"25:0",  "link":"https://www.facebook.com/events/4952957554799488/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bulacan South",             "duration":"25:0",  "link":"https://www.facebook.com/events/4952957554799488/", "image":"22.jpg",        "views":  0}
       
       
        
@@ -27,7 +27,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "International | April 21, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : " April 22, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -39,11 +39,11 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Oregon",                    "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fw_dD95X-Is",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"L.A County",                "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fw_dD95X-Is",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"South Korea",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fw_dD95X-Is",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Australia West",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fw_dD95X-Is",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Northwest California",      "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fw_dD95X-Is",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Rizal",                     "duration":"25:0",  "link":"https://www.youtube.com/watch?v=H0wuzMI1_2A",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Catanduanes",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=H0wuzMI1_2A",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Cagayan South",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=H0wuzMI1_2A",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"San Pablo City, Laguna",    "duration":"25:0",  "link":"https://www.youtube.com/watch?v=H0wuzMI1_2A",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Bulacan South",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=H0wuzMI1_2A",  "image":"22.jpg",                  "views":  0}
         
           
           
