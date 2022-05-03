@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "Updates | April 30, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : " May 2, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,10 +14,11 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Thailand",                                          "duration":"25:0",  "link":"https://www.facebook.com/events/357997456362484/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Sabah",                                             "duration":"25:0",  "link":"https://www.facebook.com/events/357997456362484/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cagayan De Oro City, Misamis Oriental",             "duration":"25:0",  "link":"https://www.facebook.com/events/357997456362484/", "image":"22.jpg",        "views":  0},
-      {"lokal":"General Santos City, South Cotabato",               "duration":"25:0",  "link":"https://www.facebook.com/events/357997456362484/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Isabela East",                    "duration":"25:0",  "link":"https://www.facebook.com/events/1107252990148937/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Cavite",                          "duration":"25:0",  "link":"https://www.facebook.com/events/1107252990148937/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Masbate",                         "duration":"25:0",  "link":"https://www.facebook.com/events/1107252990148937/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Carcar City, Cebu",               "duration":"25:0",  "link":"https://www.facebook.com/events/1107252990148937/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Calamba City, Laguna",            "duration":"25:0",  "link":"https://www.facebook.com/events/1107252990148937/", "image":"22.jpg",        "views":  0}
       
       
        
@@ -26,7 +27,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "Updates | April 30, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : " May 2, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -38,10 +39,11 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Thailand",                                          "duration":"25:0",  "link":"https://www.youtube.com/watch?v=gGGpRRdakZE",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Sabah",                                             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=gGGpRRdakZE",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Cagayan De Oro City, Misamis Oriental",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=gGGpRRdakZE",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"General Santos City, South Cotabato",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=gGGpRRdakZE",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Isabela East",                    "duration":"25:0",  "link":"https://www.youtube.com/watch?v=egjRZy5pEOI",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Cavite",                          "duration":"25:0",  "link":"https://www.youtube.com/watch?v=egjRZy5pEOI",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Masbate",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=egjRZy5pEOI",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Carcar City, Cebu",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=egjRZy5pEOI",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Calamba City, Laguna",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=egjRZy5pEOI",  "image":"22.jpg",                  "views":  0}  
         
           
           
