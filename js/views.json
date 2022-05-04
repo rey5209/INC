@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : " May 3, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : " May 4, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,11 +14,11 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Isabela East",                    "duration":"25:0",  "link":"https://www.facebook.com/events/1107252990148937/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cavite",                          "duration":"25:0",  "link":"https://www.facebook.com/events/1107252990148937/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Masbate",                         "duration":"25:0",  "link":"https://www.facebook.com/events/1107252990148937/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Carcar City, Cebu",               "duration":"25:0",  "link":"https://www.facebook.com/events/1107252990148937/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Calamba City, Laguna",            "duration":"25:0",  "link":"https://www.facebook.com/events/1107252990148937/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Negros Oriental",                        "duration":"25:0",  "link":"https://www.facebook.com/events/509225820834879/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Alaminos City, Pangasinan",              "duration":"25:0",  "link":"https://www.facebook.com/events/509225820834879/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Zambales North",                         "duration":"25:0",  "link":"https://www.facebook.com/events/509225820834879/", "image":"22.jpg",        "views":  0},
+      {"lokal":"San Jose, Mindoro Occidental",           "duration":"25:0",  "link":"https://www.facebook.com/events/509225820834879/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Naga City, Camarines Sur",               "duration":"25:0",  "link":"https://www.facebook.com/events/509225820834879/", "image":"22.jpg",        "views":  0}
       
       
        
@@ -27,7 +27,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : " May 3, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : " May 4, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -39,11 +39,11 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Isabela East",                    "duration":"25:0",  "link":"https://www.youtube.com/watch?v=egjRZy5pEOI",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Cavite",                          "duration":"25:0",  "link":"https://www.youtube.com/watch?v=egjRZy5pEOI",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Masbate",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=egjRZy5pEOI",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Carcar City, Cebu",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=egjRZy5pEOI",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Calamba City, Laguna",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=egjRZy5pEOI",  "image":"22.jpg",                  "views":  0}  
+        {"lokal":"Negros Oriental",                       "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fvfo_6ZNTvs",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Alaminos City, Pangasinan",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fvfo_6ZNTvs",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Zambales North",                        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fvfo_6ZNTvs",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"San Jose, Mindoro Occidental",          "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fvfo_6ZNTvs",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Naga City, Camarines Sur",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=fvfo_6ZNTvs",  "image":"22.jpg",                  "views":  0}  
         
           
           
