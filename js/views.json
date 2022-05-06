@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "International | May 5, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : " May 6, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,10 +14,10 @@
     "page" : "watch.html",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Virginia",                  "duration":"25:0",  "link":"https://www.facebook.com/events/735108577497571/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Tokyo, Japan",              "duration":"25:0",  "link":"https://www.facebook.com/events/735108577497571/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Southeast California",      "duration":"25:0",  "link":"https://www.facebook.com/events/735108577497571/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Greater Toronto",           "duration":"25:0",  "link":"https://www.facebook.com/events/735108577497571/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Isabela West",            "duration":"25:0",  "link":"https://www.facebook.com/events/420123493277605/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Leyte West",              "duration":"25:0",  "link":"https://www.facebook.com/events/420123493277605/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Quezon City",             "duration":"25:0",  "link":"https://www.facebook.com/events/420123493277605/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Mountain Province",       "duration":"25:0",  "link":"https://www.facebook.com/events/420123493277605/", "image":"22.jpg",        "views":  0}
       
       
        
@@ -26,7 +26,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "International | May 5, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : " May 6, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -38,10 +38,10 @@
       "page" : "watch2.html",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Virginia",                 "duration":"25:0",  "link":"https://www.youtube.com/watch?v=cxtsibHp38g",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Tokyo, Japan",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=cxtsibHp38g",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Southeast California",     "duration":"25:0",  "link":"https://www.youtube.com/watch?v=cxtsibHp38g",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Greater Toronto",          "duration":"25:0",  "link":"https://www.youtube.com/watch?v=cxtsibHp38g",  "image":"22.jpg",                  "views":  0}  
+        {"lokal":"Isabela West",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=_Xn-GYJSppI",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Leyte West",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=_Xn-GYJSppI",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Quezon City",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=_Xn-GYJSppI",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Mountain Province",      "duration":"25:0",  "link":"https://www.youtube.com/watch?v=_Xn-GYJSppI",  "image":"22.jpg",                  "views":  0}  
         
           
           
