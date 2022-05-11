@@ -23,6 +23,8 @@ var counter = {"ajax_url":"rey5209.github.io"};
 <!-- Custom style -->
 <link href="css/newStyle.css" rel="stylesheet"  >
 <link href="css/loading.css" rel="stylesheet"  >
+<link href="css/rey.css" rel="stylesheet"  >
+    
 
 </head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -37,6 +39,10 @@ var counter = {"ajax_url":"rey5209.github.io"};
   
     
 <body class="post-template-default single single-post postid-79 single-format-standard">
+    <body class="home page-template-default page page-id-10">
+    <div class="loader_bg">
+    <div class="loader"></div>
+</div>
   
    
 
@@ -122,7 +128,14 @@ var counter = {"ajax_url":"rey5209.github.io"};
 
 <!-- <script src="https://pnk.khelochagabia.com/wp-includes/js/wp-embed.min.js" id="wp-embed-js"></script>
 <script src="https://pnk.khelochagabia.com/wp-includes/js/comment-reply.min.js" id="comment-reply-js"></script> -->
-<script src="https://cdn.jsdelivr.net/npm/gasparesganga-jquery-loading-overlay@2.1.7/dist/loadingoverlay.min.js"></script>  
+<script src="https://cdn.jsdelivr.net/npm/gasparesganga-jquery-loading-overlay@2.1.7/dist/loadingoverlay.min.js"></script> 
+            <!-- PRELOADER -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+        setTimeout(function(){
+            $('.loader_bg').fadeToggle();
+        }, 1500);
+    </script>
 
 
 

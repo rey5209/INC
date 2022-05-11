@@ -11,7 +11,7 @@
     "different_link_per_data" : true,
     "different_img_per_data" : true,
     "redirectPage": true,
-    "page" : "watch.html",
+    "page" : "watch",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
       {"lokal":"Washington, D.C.",        "duration":"25:0",  "link":"https://www.facebook.com/events/5004325712949127/", "image":"22.jpg",        "views":  0},
@@ -36,7 +36,7 @@
       "different_link_per_data" : true,
       "different_img_per_data" : true,
       "redirectPage": true,
-      "page" : "watch2.html",
+      "page" : "watch2",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
         {"lokal":"Washington, D.C.",        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=RkVtWKyVTGo",  "image":"22.jpg",                  "views":  0},
