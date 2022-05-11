@@ -59,6 +59,9 @@ var counter = {"ajax_url":"rey5209.github.io"};
 
     
 <body class="home page-template-default page page-id-10">
+    <div class="loader_bg">
+    <div class="loader"></div>
+</div>
 
 <header id="site-header" class="site-header  " role="banner"> 
   <div class="banner-bg pt-5 pb-5" >
@@ -162,6 +165,13 @@ var counter = {"ajax_url":"rey5209.github.io"};
 
   <script src="js/jquery-3.6.0.js" ></script> 
 <script src="js/main.js"></script>
+    <!-- PRELOADER -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+        setTimeout(function(){
+            $('.loader_bg').fadeToggle();
+        }, 1500);
+    </script>
 <!-- <script type="text/javascript" src="js/today.json"></script> --> 
 
 </body></html>

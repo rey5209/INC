@@ -90,7 +90,7 @@ $(document).ready(function() {
         '    <thead>'+
         '      <tr > '+
         '        <th  class="lokals-item d-flex justify-content-between align-items-center"> '+
-        '          <div class="p-2 bd-highlight link-dark post-title ">Districts</div> '+ 
+        '          <div class="p-2 bd-highlight link-dark post-title ">Feature Districts</div> '+ 
         '        </th> '+
         '      </tr>'+
         '    </thead>'+
