@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "Updates | May 8, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : "Updates | May 14, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,11 +14,11 @@
     "page" : "watch",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Washington, D.C.",        "duration":"25:0",  "link":"https://www.facebook.com/events/5004325712949127/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Texas",                   "duration":"25:0",  "link":"https://www.facebook.com/events/5004325712949127/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Spain",                   "duration":"25:0",  "link":"https://www.facebook.com/events/5004325712949127/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Agusan Del Sur",          "duration":"25:0",  "link":"https://www.facebook.com/events/5004325712949127/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Quezon North",            "duration":"25:0",  "link":"https://www.facebook.com/events/5004325712949127/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Northwest California",        "duration":"25:0",  "link":"https://www.facebook.com/events/1153778965412649/", "image":"22.jpg",        "views":  0},
+      {"lokal":"New Zealand",                 "duration":"25:0",  "link":"https://www.facebook.com/events/1153778965412649/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Northern Samar",              "duration":"25:0",  "link":"https://www.facebook.com/events/1153778965412649/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Central",                     "duration":"25:0",  "link":"https://www.facebook.com/events/1153778965412649/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Batac City, Ilocos Norte",    "duration":"25:0",  "link":"https://www.facebook.com/events/1153778965412649/", "image":"22.jpg",        "views":  0}
       
       
        
@@ -27,7 +27,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "Updates | May 8, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : "Updates | May 14, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -39,11 +39,11 @@
       "page" : "watch2",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Washington, D.C.",        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=RkVtWKyVTGo",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Texas",                   "duration":"25:0",  "link":"https://www.youtube.com/watch?v=RkVtWKyVTGo",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Spain",                   "duration":"25:0",  "link":"https://www.youtube.com/watch?v=RkVtWKyVTGo",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Agusan Del Sur",          "duration":"25:0",  "link":"https://www.youtube.com/watch?v=RkVtWKyVTGo",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Quezon North",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=RkVtWKyVTGo",  "image":"22.jpg",                  "views":  0}  
+        {"lokal":"Northwest California",         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=p1ooIH-f42s",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"New Zealand",                  "duration":"25:0",  "link":"https://www.youtube.com/watch?v=p1ooIH-f42s",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Northern Samar",               "duration":"25:0",  "link":"https://www.youtube.com/watch?v=p1ooIH-f42s",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Central",                      "duration":"25:0",  "link":"https://www.youtube.com/watch?v=p1ooIH-f42s",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Batac City, Ilocos Norte",     "duration":"25:0",  "link":"https://www.youtube.com/watch?v=p1ooIH-f42s",  "image":"22.jpg",                  "views":  0}  
         
           
           
