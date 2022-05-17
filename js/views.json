@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "Updates | May 15, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : " May 17, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,10 +14,11 @@
     "page" : "watch",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Western Samar",                "duration":"25:0",  "link":"https://www.facebook.com/IglesiaNiCristoChristianFamilyOrganizations/posts/pfbid0jJ8eN4FSU2mXdpNFP2mbe4vXUwJA7cd3eMK1cDSjYjs3MDpyJvuHfaFZaCkr8Rgpl", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cagayan East",                 "duration":"25:0",  "link":"https://www.facebook.com/IglesiaNiCristoChristianFamilyOrganizations/posts/pfbid0jJ8eN4FSU2mXdpNFP2mbe4vXUwJA7cd3eMK1cDSjYjs3MDpyJvuHfaFZaCkr8Rgpl", "image":"22.jpg",        "views":  0},
-      {"lokal":"Orange County, California",    "duration":"25:0",  "link":"https://www.facebook.com/IglesiaNiCristoChristianFamilyOrganizations/posts/pfbid0jJ8eN4FSU2mXdpNFP2mbe4vXUwJA7cd3eMK1cDSjYjs3MDpyJvuHfaFZaCkr8Rgpl", "image":"22.jpg",        "views":  0},
-      {"lokal":"Arabia East",                  "duration":"25:0",  "link":"https://www.facebook.com/IglesiaNiCristoChristianFamilyOrganizations/posts/pfbid0jJ8eN4FSU2mXdpNFP2mbe4vXUwJA7cd3eMK1cDSjYjs3MDpyJvuHfaFZaCkr8Rgpl", "image":"22.jpg",        "views":  0}
+      {"lokal":"Albay",                     "duration":"25:0",  "link":"https://www.facebook.com/events/705522727261646/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Isabela South",             "duration":"25:0",  "link":"https://www.facebook.com/events/705522727261646/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Ilocos Norte",              "duration":"25:0",  "link":"https://www.facebook.com/events/705522727261646/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Palayan City, Nueva Ecija", "duration":"25:0",  "link":"https://www.facebook.com/events/705522727261646/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Batangas",                  "duration":"25:0",  "link":"https://www.facebook.com/events/705522727261646/", "image":"22.jpg",        "views":  0}
       
       
        
@@ -26,7 +27,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "Updates | May 15, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : " May 17, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -38,10 +39,11 @@
       "page" : "watch2",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Western Samar",                "duration":"25:0",  "link":"https://www.youtube.com/watch?v=iW7MyF9SOVw",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Cagayan East",                 "duration":"25:0",  "link":"https://www.youtube.com/watch?v=iW7MyF9SOVw",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Orange County, California",    "duration":"25:0",  "link":"https://www.youtube.com/watch?v=iW7MyF9SOVw",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Arabia East",                  "duration":"25:0",  "link":"https://www.youtube.com/watch?v=iW7MyF9SOVw",  "image":"22.jpg",                  "views":  0}  
+        {"lokal":"Albay",                     "duration":"25:0",  "link":"https://www.youtube.com/watch?v=moqUos8ahkM",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Isabela South",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=moqUos8ahkM",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Ilocos Norte",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=moqUos8ahkM",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Palayan City, Nueva Ecija", "duration":"25:0",  "link":"https://www.youtube.com/watch?v=moqUos8ahkM",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Batangas",                  "duration":"25:0",  "link":"https://www.youtube.com/watch?v=moqUos8ahkM",  "image":"22.jpg",                  "views":  0}  
         
           
           
