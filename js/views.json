@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "Updates | May 21, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : " May 23, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,11 +14,11 @@
     "page" : "watch",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Australia East",                   "duration":"25:0",  "link":"https://www.facebook.com/events/1192509028233849/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Southeast California",             "duration":"25:0",  "link":"https://www.facebook.com/events/1192509028233849/", "image":"22.jpg",        "views":  0},
-      {"lokal":"South Korea",                      "duration":"25:0",  "link":"https://www.facebook.com/events/1192509028233849/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Sultan Kudarat",                   "duration":"25:0",  "link":"https://www.facebook.com/events/1192509028233849/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Bulacan",                          "duration":"25:0",  "link":"https://www.facebook.com/events/1192509028233849/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Western Samar",                  "duration":"25:0",  "link":"https://www.facebook.com/events/686402449101115/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Pampanga East",                  "duration":"25:0",  "link":"https://www.facebook.com/events/686402449101115/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bulacan East",                   "duration":"25:0",  "link":"https://www.facebook.com/events/686402449101115/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Iloilo North",                   "duration":"25:0",  "link":"https://www.facebook.com/events/686402449101115/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bulacan North",                  "duration":"25:0",  "link":"https://www.facebook.com/events/686402449101115/", "image":"22.jpg",        "views":  0}
       
       
        
@@ -27,7 +27,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "Updates | May 21, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : " May 23, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -39,11 +39,11 @@
       "page" : "watch2",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Australia East",                  "duration":"25:0",  "link":"https://www.youtube.com/watch?v=GDHe0E-CPEI",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Southeast California",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=GDHe0E-CPEI",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"South Korea",                     "duration":"25:0",  "link":"https://www.youtube.com/watch?v=GDHe0E-CPEI",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Sultan Kudarat",                  "duration":"25:0",  "link":"https://www.youtube.com/watch?v=GDHe0E-CPEI",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Bulacan",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=GDHe0E-CPEI",  "image":"22.jpg",                  "views":  0}  
+        {"lokal":"Western Samar",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Hqxu0M9x5Ac",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Pampanga East",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Hqxu0M9x5Ac",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Bulacan East",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Hqxu0M9x5Ac",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Iloilo North",             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Hqxu0M9x5Ac",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Bulacan North",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=Hqxu0M9x5Ac",  "image":"22.jpg",                  "views":  0}  
         
           
           
