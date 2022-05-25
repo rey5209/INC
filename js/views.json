@@ -14,11 +14,11 @@
     "page" : "watch",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Rizal East",                              "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Quezon North",                            "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Bislig City, Surigao Del Sur",            "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0},
-      {"lokal":"San Jose, Mindoro Occidental",            "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cagayan East",                            "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Rizal East",                              "duration":"25:0",  "link":"https://www.facebook.com/events/709520716985494/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Quezon North",                            "duration":"25:0",  "link":"https://www.facebook.com/events/709520716985494/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bislig City, Surigao Del Sur",            "duration":"25:0",  "link":"https://www.facebook.com/events/709520716985494/", "image":"22.jpg",        "views":  0},
+      {"lokal":"San Jose, Mindoro Occidental",            "duration":"25:0",  "link":"https://www.facebook.com/events/709520716985494/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Cagayan East",                            "duration":"25:0",  "link":"https://www.facebook.com/events/709520716985494/", "image":"22.jpg",        "views":  0}
       
       
        
@@ -39,11 +39,11 @@
       "page" : "watch2",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Rizal East",                              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Quezon North",                            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Bislig City, Surigao Del Sur",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"San Jose, Mindoro Occidental",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Cagayan East",                            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0}  
+        {"lokal":"Rizal East",                              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=TThLRnp40Uc",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Quezon North",                            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=TThLRnp40Uc",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Bislig City, Surigao Del Sur",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=TThLRnp40Uc",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"San Jose, Mindoro Occidental",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=TThLRnp40Uc",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Cagayan East",                            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=TThLRnp40Uc",  "image":"22.jpg",                  "views":  0}  
         
           
           
