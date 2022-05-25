@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : " May 24, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : " May 25, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,11 +14,11 @@
     "page" : "watch",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Calamian",                                "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Rizal",                                   "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Camanava",                                "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0},
-      {"lokal":"San Pablo City, Laguna",                  "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cabanatuan, Nueva Ecija",                 "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Rizal East",                              "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Quezon North",                            "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bislig City, Surigao Del Sur",            "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0},
+      {"lokal":"San Jose, Mindoro Occidental",            "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Cagayan East",                            "duration":"25:0",  "link":"https://www.facebook.com/events/493536409222859/", "image":"22.jpg",        "views":  0}
       
       
        
@@ -27,7 +27,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : " May 24, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : " May 25, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -39,11 +39,11 @@
       "page" : "watch2",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Calamian",                          "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Rizal",                             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Camanava",                          "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"San Pablo City, Laguna",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Cabanatuan, Nueva Ecija",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0}  
+        {"lokal":"Rizal East",                              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Quezon North",                            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Bislig City, Surigao Del Sur",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"San Jose, Mindoro Occidental",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Cagayan East",                            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=CbuQAjlJuk8",  "image":"22.jpg",                  "views":  0}  
         
           
           
