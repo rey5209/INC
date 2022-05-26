@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : " May 25, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : "International | May 26, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -14,11 +14,11 @@
     "page" : "watch",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Rizal East",                              "duration":"25:0",  "link":"https://www.facebook.com/events/709520716985494/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Quezon North",                            "duration":"25:0",  "link":"https://www.facebook.com/events/709520716985494/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Bislig City, Surigao Del Sur",            "duration":"25:0",  "link":"https://www.facebook.com/events/709520716985494/", "image":"22.jpg",        "views":  0},
-      {"lokal":"San Jose, Mindoro Occidental",            "duration":"25:0",  "link":"https://www.facebook.com/events/709520716985494/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cagayan East",                            "duration":"25:0",  "link":"https://www.facebook.com/events/709520716985494/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Manitoba",                            "duration":"25:0",  "link":"https://www.facebook.com/events/352129903573792/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Mediterranean",                       "duration":"25:0",  "link":"https://www.facebook.com/events/352129903573792/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Southern Ontario",                    "duration":"25:0",  "link":"https://www.facebook.com/events/352129903573792/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Northeast California",                "duration":"25:0",  "link":"https://www.facebook.com/events/352129903573792/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Hong Kong",                           "duration":"25:0",  "link":"https://www.facebook.com/events/352129903573792/", "image":"22.jpg",        "views":  0}
      
       
       
@@ -28,7 +28,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : " May 25, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : "International | May 26, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -40,11 +40,11 @@
       "page" : "watch2",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Rizal East",                              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=TThLRnp40Uc",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Quezon North",                            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=TThLRnp40Uc",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Bislig City, Surigao Del Sur",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=TThLRnp40Uc",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"San Jose, Mindoro Occidental",            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=TThLRnp40Uc",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Cagayan East",                            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=TThLRnp40Uc",  "image":"22.jpg",                  "views":  0}  
+        {"lokal":"Manitoba",                             "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Mediterranean",                        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Southern Ontario",                     "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Northeast California",                 "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Hong Kong",                            "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0}  
         
           
           
