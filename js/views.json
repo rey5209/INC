@@ -2,23 +2,23 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : " May 27, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : " May 30, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
     "image" : "INC-Central-Temple-2.jpg",
-    "link" : "https://www.facebook.com/events/3076896365959099/", 
+    "link" : "https://www.facebook.com/events/344837191090794/", 
     "different_link_per_data" : false,
     "different_img_per_data" : true,
     "redirectPage": true,
     "page" : "watch",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Iloilo South",               "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Davao Del Sur",              "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Carcar City, Cebu",          "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Quezon East",                "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cagayan West",               "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Maguindanao",               "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bulacan",              "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Palawan North",          "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Pampanga East",                "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Camanava",               "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0}
      
       
       
@@ -28,23 +28,23 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : " May 27, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : " May 30, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
       "image" : "Untitled.jpg",
-      "link" : "https://www.youtube.com/watch?v=YnnHJkv12VY", 
+      "link" : "https://www.youtube.com/watch?v=D3f5e3mFtak", 
       "different_link_per_data" : false,
       "different_img_per_data" : true,
       "redirectPage": true,
       "page" : "watch2",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Iloilo South",                        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Davao Del Sur",                       "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Carcar City, Cebu",                   "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Quezon East",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Cagayan West",                        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0}  
+        {"lokal":"Maguindanao",                        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Bulacan",                       "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Palawan North",                   "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Pampanga East",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Camanava",                        "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0}  
         
           
           
