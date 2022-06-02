@@ -2,22 +2,23 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "Season 2 | June 1, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : "International Season 2 | June 2, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
     "image" : "INC-Central-Temple-2.jpg",
-    "link" : "https://www.facebook.com/events/393733602777739/", 
+    "link" : "https://www.facebook.com/events/1640839486293856/", 
     "different_link_per_data" : false,
     "different_img_per_data" : true,
     "redirectPage": true,
     "page" : "watch",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Lingayen, Pangasinan",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cavite",                           "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cagayan East",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Carcar City, Cebu",                "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Southeast California",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Orange County",                           "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Texas",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"South Korea",                "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Latin America",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0}
      
       
       
@@ -27,22 +28,23 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "Season 2 | June 1, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : "International Season 2 | June 2, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
       "image" : "Untitled.jpg",
-      "link" : "https://www.youtube.com/watch?v=bT5V5TXgyvU", 
+      "link" : "https://www.youtube.com/watch?v=VzHQL3tXsR8", 
       "different_link_per_data" : false,
       "different_img_per_data" : true,
       "redirectPage": true,
       "page" : "watch2",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Lingayen, Pangasinan",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Cavite",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Cagayan East",                   "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Carcar City, Cebu",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Southeast California",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Orange County",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Texas",                   "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"South Korea",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Latin America",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0}
         
           
           
