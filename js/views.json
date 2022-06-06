@@ -2,23 +2,22 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "Season 2 | June 3, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : "Season 2 | June 6, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
     "image" : "INC-Central-Temple-2.jpg",
-    "link" : "https://www.facebook.com/events/5082000441875494/", 
+    "link" : "https://www.facebook.com/events/1240127566801293/", 
     "different_link_per_data" : false,
     "different_img_per_data" : true,
     "redirectPage": true,
     "page" : "watch",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Kabankalan City, Negros Occidental",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Aurora",                           "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Sta. Cruz, Laguna",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Tarlac City, Tarlac",                "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cavite",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Mamburao, Mindoro Occidental",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Central",                           "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Metro Manila South",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Cotabato North",                "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0}
      
       
       
@@ -28,23 +27,22 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "Season 2 | June 3, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : "Season 2 | June 6, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
       "image" : "Untitled.jpg",
-      "link" : "https://www.youtube.com/watch?v=qUmZzvqTNOk", 
+      "link" : "https://www.youtube.com/watch?v=neRB0ijn4bc", 
       "different_link_per_data" : false,
       "different_img_per_data" : true,
       "redirectPage": true,
       "page" : "watch2",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Kabankalan City, Negros Occidental",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Aurora",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Sta. Cruz, Laguna",                   "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Tarlac City, Tarlac",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Cavite",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Mamburao, Mindoro Occidental",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Central",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Metro Manila South",                   "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Cotabato North",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0}
         
           
           
