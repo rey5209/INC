@@ -93,14 +93,14 @@
   position: absolute;
   width: 245px;
   height: 45px;
-  background: #f5d924;
+  background: #F8931D;
   border-radius: 75px;
   z-index: -2;
   animation: 1s clockwise infinite; 
 }
 
 .btn-sample:after {
-  background: #07f2ee;
+  background: #1F5A9C;
   animation: 1s clockwise2 infinite;
 }
 
