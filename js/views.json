@@ -2,23 +2,23 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "International Season 2 | June 16, 2022 | 5:30 - 6:00 pm ",
+    "tittle" : "Season 2 | June 17, 2022 | 5:30 - 6:00 pm ",
     "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
     "image" : "INC-Central-Temple-2.jpg",
-    "link" : "https://www.facebook.com/events/1075494153375373/", 
+    "link" : "https://www.facebook.com/events/5047793691986042/", 
     "different_link_per_data" : false,
     "different_img_per_data" : true,
     "redirectPage": true,
     "page" : "watch",
     "redirect_text":"Sending view from facebook",
     "viewData" : [
-      {"lokal":"Northern Europe",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"L.A County",                           "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Taiwan",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Australia West",                "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Italy North",                "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0}
+      {"lokal":"Antique",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Negros Oriental",                           "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Benguet",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Cagayan West",                "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Kabankalan City, Negros Occidental",                "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0}
      
       
       
@@ -28,23 +28,23 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "International Season 2 | June 16, 2022 | 5:30 - 6:00 pm ",
+      "tittle" : "Season 2 | June 17, 2022 | 5:30 - 6:00 pm ",
       "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
       "image" : "Untitled.jpg",
-      "link" : "https://www.youtube.com/watch?v=skpVk5-0nGE", 
+      "link" : "https://www.youtube.com/watch?v=z7ag6M-T4AI", 
       "different_link_per_data" : false,
       "different_img_per_data" : true,
       "redirectPage": true,
       "page" : "watch2",
       "redirect_text":"Sending view from youtube",
       "viewData" : [
-        {"lokal":"Northern Europe",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"L.A County",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Taiwan",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Australia West",                   "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Italy North",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0}
+        {"lokal":"Antique",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Negros Oriental",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Benguet",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Cagayan West",                   "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Kabankalan City, Negros Occidental",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0}
         
           
           
