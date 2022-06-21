@@ -90,7 +90,7 @@ $(document).ready(function() {
         '    <thead>'+
         '      <tr > '+
         '        <th  class="lokals-item d-flex justify-content-between align-items-center"> '+
-        '          <div class="p-2 bd-highlight link-dark post-title ">Featured Districts</div> '+ 
+        '          <div class="p-2 bd-highlight link-dark post-title " style="color:'+item.first_header_color+'">'+item.first_header_title+'</div> '+ 
         '        </th> '+
         '      </tr>'+
         '    </thead>'+
@@ -110,9 +110,11 @@ $(document).ready(function() {
             // Setup Lokal content and views for each page
           if(item.divider){
               $('.append_table-'+count_page).append(""+
+                '<tr> '+
             '        <th  class="lokals-item d-flex justify-content-between align-items-center border-bottom border-dark"> '+
-            '          <div class="p-2 bd-highlight link-dark post-title ">'+item.divider_title+'</div> '+ 
+            '          <div class="p-2 bd-highlight link-dark post-title " style="color:'+item.color+'">'+item.divider_title+'</div> '+ 
             '        </th> '+
+            '  </tr>  '+
             "")
           }else{
 
