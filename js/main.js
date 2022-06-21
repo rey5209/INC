@@ -106,16 +106,27 @@ $(document).ready(function() {
         function setLokals(item, index) { 
           // total += item.views; 
 
-          // Setup Lokal content and views for each page
-          $('.append_table-'+count_page).append(""+
-          '<tr> '+
-          '    <td > '+
-          '        <a href="'+(redirectPage == true? page+'?pageId='+count_page+'&lokal='+item.lokal : '#' )+'" class="lokals-item d-flex justify-content-between align-items-center" id="lokal_'+item.lokal+'">'+
-          '          <div class="p-2 link-dark post-title">'+item.lokal+'</div> '+ 
-          '        </a>'+
-          '    </td>  '+
-          '  </tr>  '+
-          "")
+          
+            // Setup Lokal content and views for each page
+          if(item.divider){
+              $('.append_table-'+count_page).append(""+
+            '        <th  class="lokals-item d-flex justify-content-between align-items-center border-bottom border-dark"> '+
+            '          <div class="p-2 bd-highlight link-dark post-title ">'+item.divider_title+'</div> '+ 
+            '        </th> '+
+            "")
+          }else{
+
+            $('.append_table-'+count_page).append(""+
+            '<tr> '+
+            '    <td > '+
+            '        <a href="'+(redirectPage == true? page+'?pageId='+count_page+'&lokal='+item.lokal : '#' )+'" class="lokals-item d-flex justify-content-between align-items-center" id="lokal_'+item.lokal+'">'+
+            '          <div class="p-2 link-dark post-title">'+item.lokal+'</div> '+ 
+            '        </a>'+
+            '    </td>  '+
+            '  </tr>  '+
+            "")
+          }
+
         }
 
         // Just for empty space
@@ -129,7 +140,7 @@ $(document).ready(function() {
         '  </td>  '+
         '</tr>'+
           "")
-
+ 
           // Get total at the end of every page
         // $('.append_table-'+count_page).append(""+
         // '<tr> '+
